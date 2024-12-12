@@ -1,0 +1,10 @@
+
+.About-page * {
+    transition: color 0.3s ease-in-out;;
+    margin:auto;
+    ;
+}
+
+.About-page:hover * {
+    color: cyan; /* or any other color you prefer */
+  }

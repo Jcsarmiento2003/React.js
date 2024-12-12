@@ -1,0 +1,18 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #2a2626;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+    margin-bottom: 100px; /* This is the height of the footer */
+  }

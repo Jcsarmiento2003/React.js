@@ -1,0 +1,22 @@
+.navbar {
+    height: 70px; /* increase the height */
+   
+  }
+
+.navbar:hover {
+    box-shadow: 0 0 30px cyan, 0 0 50px cyan;
+  }
+  
+
+.navbar-nav .nav-link {
+    color: white; /* dark gray */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: cyan; /* white */
+    text-decoration: none;
+  }
+
+
+
+  

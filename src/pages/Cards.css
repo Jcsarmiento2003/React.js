@@ -1,0 +1,13 @@
+.card {
+  display: inline-block;
+  margin: 10px auto;
+  padding : 10px;
+  border-radius: 5px;
+  background-color: black;
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 0 50px cyan, 0 0 50px cyan;
+}
