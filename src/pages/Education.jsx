@@ -61,7 +61,7 @@ function Education () {
 
 
     <Card style={{ width: '18rem', color: "white" }}>
-      <Card.Img variant="top" src="https://scontent.fmnl25-5.fna.fbcdn.net/v/t39.30808-1/463286070_942543074585486_5277433814265322358_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=D5KU0nlQ-0YQ7kNvgELWi86&_nc_zt=24&_nc_ht=scontent.fmnl25-5.fna&_nc_gid=AfKpTZEyRAjb-n6s6KjtCiU&oh=00_AYBw1cq-cutQn81Ujcc8Qhwjqg4N0jL4VRsJiTeBq6tjQQ&oe=67599826" />
+      <Card.Img variant="top" src="https://scontent.fmnl40-1.fna.fbcdn.net/v/t39.30808-1/463286070_942543074585486_5277433814265322358_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=f4b9fd&_nc_eui2=AeFmRhUrxgkssRCqo-NNmWaTe-SH6Db6UJ575IfoNvpQnsI2kqPyTTM7sYJ5Dix1aLePqmi9ONrSw5Q0tqpNViMK&_nc_ohc=sfUCafWOt2cQ7kNvgGKUdFc&_nc_zt=24&_nc_ht=scontent.fmnl40-1.fna&_nc_gid=AmqlqD6VqUuZWycVhIK5cVs&oh=00_AYAWeluTEBDuAmgDWu9n26gM-ws_icaa07SxjcabTPPbzw&oe=676067E6" />
       <Card.Body>
         <Card.Title><b>NAGA COLLEGE FOUNDATION</b></Card.Title>
         <Card.Text>
